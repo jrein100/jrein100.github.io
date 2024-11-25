@@ -1,0 +1,118 @@
+
+
+:root{
+    background-color: #575c60;
+    color: #202123 ;
+}
+
+
+
+
+.navcontainer {
+    max-width: 100%;
+    margin-top: 0.8rem;
+    margin-left: 2.4rem;
+    margin-right: 2.4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.iavcontainer {
+    nav ol{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        justify-content: space-between;
+        display: block;
+        width: 100%;
+    }
+    
+    
+    
+
+}
+
+.accontainer {
+    nav ol{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        justify-content: space-between;
+        display: block;
+        width: 100%;
+        text-align: right;
+    }
+    
+
+}
+
+.contents {
+    padding: 0;
+    margin-top: 2.4rem;
+    margin-left: 6rem;
+    
+    
+}
+
+.link {
+    font-family: "Times New Roman";
+    font-size: 1.6rem;
+    text-decoration: none;
+    color: #ff98cf;
+    
+}
+
+.link:hover {
+    color: #ff1495;
+    text-shadow: 0 0 8px #ff53e5;
+}
+
+.link.active {
+    color: #ff1495;
+    font-size: 2.4rem;
+    font-weight: 900;
+}
+
+h1{
+    font-family: "Times New Roman";
+    text-align: left;
+    color: #ff63b6;
+    text-decoration: none;
+    font-weight: 900;
+    margin: 0;
+    padding: 0;
+    font-size: 2.4rem;
+    
+}
+
+h1 a{  
+    color: #fe33a0;
+    text-decoration: none;
+}
+
+h1 a:hover{  
+    color: #ff0088;
+    text-decoration: none;
+}
+
+
+
+h2{
+    font-family: "Helvetica Neue";
+    font-weight: 700;
+    font-size: 1.6rem;
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    font-family: "Helvetica Neue";
+    font-weight: 400;
+    font-size: 1.2rem;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-size: 1rem;
+}
